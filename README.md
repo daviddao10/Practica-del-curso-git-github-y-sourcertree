@@ -20,6 +20,7 @@ si porque las lines de codigo se encontraban en el mismo lugar por lo cual git n
 no ya que como styled tenia todo lo que tenia la rama master por lo cual solo era mover la etiqueta de master a styled 
 
 - ¿Qué comando o comandos utilizaste en el paso 25?
+git log --graph para que se mueste en diagramas 
 
 - El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
 si porque las lineas de codigo no se sumplantan unas a otras entonces git puede crear la union de las dos.
